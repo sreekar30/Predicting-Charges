@@ -50,15 +50,6 @@ To build a regression model that can accurately estimate medical insurance charg
 - Smoking status and BMI were identified as key predictors of insurance charges.
 - Clear and interpretable insights from visualizations and model output.
 
-## File Structure
-
-```
-PredictingCharges/
-│
-├── PredictingCharges.ipynb     # Main notebook with code, analysis, and results
-├── README.md                   # Project overview and instructions
-└── requirements.txt            # (Optional) Python dependencies
-```
 
 ## How to Run
 
@@ -79,6 +70,3 @@ PredictingCharges/
    jupyter notebook PredictingCharges.ipynb
    ```
 
-## Contact
-
-For feedback or collaboration, feel free to connect via [GitHub](https://github.com/yourusername) or email.
